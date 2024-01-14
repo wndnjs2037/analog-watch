@@ -1,0 +1,41 @@
+.clock-wrap {
+  text-align: center;
+  position: relative;
+}
+
+.clock {
+  margin-top: 20px;
+  width: 200px;
+  height: 200px;
+}
+
+.tick {
+  stroke: gray;
+  stroke-width: 1;
+}
+
+.bold-tick {
+  stroke: black;
+  stroke-width: 2;
+}
+
+.clock-face {
+  fill: #b5d9a2;
+  stroke: black;
+  stroke-width: 2;
+}
+
+.hour-hand {
+  stroke: black;
+  stroke-width: 4;
+}
+
+.minute-hand {
+  stroke: black;
+  stroke-width: 3;
+}
+
+.second-hand {
+  stroke: green;
+  stroke-width: 2;
+}
